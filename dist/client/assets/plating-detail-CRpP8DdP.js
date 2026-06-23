@@ -1,0 +1,1 @@
+var e=`/assets/signature-drink-B68MoGnA.jpg`,t=`/assets/plating-detail-DUWPcgBL.jpg`;export{e as n,t};

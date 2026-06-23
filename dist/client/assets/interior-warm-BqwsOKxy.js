@@ -1,0 +1,1 @@
+var e=`/assets/interior-warm-_pcIWPFC.jpg`;export{e as t};
